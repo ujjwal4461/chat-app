@@ -1,0 +1,1 @@
+A react based chat application where socket.io is used for real time messaging between clients and server is made using nodejs
